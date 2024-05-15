@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/patch-crotch/static/css/main.d0140eb8.css",
-    "main.js": "/patch-crotch/static/js/main.728e7f05.js",
+    "main.js": "/patch-crotch/static/js/main.079473bb.js",
     "static/js/453.792680e7.chunk.js": "/patch-crotch/static/js/453.792680e7.chunk.js",
     "static/media/win.wav": "/patch-crotch/static/media/win.cb6a440c4a691f3862a8.wav",
     "static/media/dog.png": "/patch-crotch/static/media/dog.b82a0d30d97b741f7f27.png",
@@ -9,11 +9,11 @@
     "static/media/drop.mp3": "/patch-crotch/static/media/drop.6f12c5aaef43336fca07.mp3",
     "index.html": "/patch-crotch/index.html",
     "main.d0140eb8.css.map": "/patch-crotch/static/css/main.d0140eb8.css.map",
-    "main.728e7f05.js.map": "/patch-crotch/static/js/main.728e7f05.js.map",
+    "main.079473bb.js.map": "/patch-crotch/static/js/main.079473bb.js.map",
     "453.792680e7.chunk.js.map": "/patch-crotch/static/js/453.792680e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0140eb8.css",
-    "static/js/main.728e7f05.js"
+    "static/js/main.079473bb.js"
   ]
 }
