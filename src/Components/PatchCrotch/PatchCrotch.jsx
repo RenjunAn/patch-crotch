@@ -120,7 +120,7 @@ const PatchCrotch = () => {
     }
   return (
       <div className='container'>
-          <h1 className='title' ref = {titleRef}>Patch Crotch Game In <span>React</span></h1>
+          <h1 className='title' ref = {titleRef}>Trap The <span>Dog</span></h1>
           <div className='board'>
               <div className="row1">
                   <div className="boxes" ref={boxRefs[0]} onClick={(e) => { toggle(e, 0) }}
