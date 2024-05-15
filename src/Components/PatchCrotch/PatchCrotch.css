@@ -39,8 +39,7 @@
     height: 600px;
     width: 600px;
     display: flex;
-    margin-top:-50px;
-    margin-left: 425px;
+    margin:auto;
 }
 .boxes img{
     margin: 60px;
