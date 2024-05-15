@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/patch-crotch/static/css/main.b6af6dce.css",
+    "main.js": "/patch-crotch/static/js/main.48e02071.js",
+    "static/js/453.792680e7.chunk.js": "/patch-crotch/static/js/453.792680e7.chunk.js",
+    "static/media/win.wav": "/patch-crotch/static/media/win.cb6a440c4a691f3862a8.wav",
+    "static/media/dog.png": "/patch-crotch/static/media/dog.b82a0d30d97b741f7f27.png",
+    "static/media/cat.png": "/patch-crotch/static/media/cat.458a6a6126f947943c69.png",
+    "static/media/drop.mp3": "/patch-crotch/static/media/drop.6f12c5aaef43336fca07.mp3",
+    "index.html": "/patch-crotch/index.html",
+    "main.b6af6dce.css.map": "/patch-crotch/static/css/main.b6af6dce.css.map",
+    "main.48e02071.js.map": "/patch-crotch/static/js/main.48e02071.js.map",
+    "453.792680e7.chunk.js.map": "/patch-crotch/static/js/453.792680e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6af6dce.css",
+    "static/js/main.48e02071.js"
+  ]
+}
