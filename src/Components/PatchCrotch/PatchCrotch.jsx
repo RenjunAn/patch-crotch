@@ -107,7 +107,7 @@ const PatchCrotch = () => {
         setDogCount(0);
         setCatCount(0);
         setData(initialData);
-        titleRef.current.innerHTML = 'Patch Crotch Game In <span>React</span>';
+        titleRef.current.innerHTML = 'Trap The <span>Dog</span>';
         // box_array.map((e)=> {
         //     e.current.innerHTML = "";
         // })
